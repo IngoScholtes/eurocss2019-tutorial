@@ -39,8 +39,8 @@ Participants should bring a laptop with a python 3.x environment. See [setup ins
 Unit | Topic | Code
 ----|----|----|----
 1 | Data Science with `python`, `jupyter`, and `VS Code` (10 min) | [.py](https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/code/1_vscode_jupyter.py)
-2 | Analysis and Visualisation of Path Data in [`pathpy`](http://www.pathpy.net) (25 min) | [.py](https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/code/2_pathpy.py) [.ipynb](https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/code/2_pathpy.ipynb) [.html](https://htmlpreview.github.io/?https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/code/2_pathpy.html)
-3 | Fitting and Visualising Higher-order Network Models (25 min) | [.py](https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/code/3_higher_order.py) [.ipynb](https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/code/3_higher_order.ipynb) [.html](https://htmlpreview.github.io/?https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/code/3_higher_order.html)
+2 | Analysis and Visualisation of Path Data in [`pathpy`](http://www.pathpy.net) (25 min) | [.py](https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/code/2_pathpy.py) [.ipynb](https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/code/2_pathpy.ipynb) [.html](https://htmlpreview.github.io/?https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/docs/2_pathpy.html)
+3 | Fitting and Visualising Higher-order Network Models (25 min) | [.py](https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/code/3_higher_order.py) [.ipynb](https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/code/3_higher_order.ipynb) [.html](https://htmlpreview.github.io/?https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/docs/3_higher_order.html)
 
 ### Coffee Break
 
@@ -50,10 +50,9 @@ Unit | Topic | Code
 
 Unit | Topic | Code
 ----|----|----|----
-
-4 | Time-stamped Network Analysis in [`pathpy`](http://www.pathpy.net) (30 min) | [.py](https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/code/4_temporal_networks.py) [.ipynb](https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/code/4_temporal_networks.ipynb) [.html](https://htmlpreview.github.io/?https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/code/4_temporal_networks.html)
-5 | Multi-order Model Selection (30 min) | [.py](https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/code/5_multi_order.py) [.ipynb](https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/code/5_multi_order.ipynb) [.html](https://htmlpreview.github.io/?https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/code/5_multi_order.html)
-6 | Optimal Higher-order Analytics for Temporal Data (30 min) | [.py](https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/code/6_optimal_analysis.py) [.ipynb](https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/code/6_optimal_analysis.ipynb) [.html](https://htmlpreview.github.io/?https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/code/6_optimal_analysis.html)
+4 | Time-stamped Network Analysis in [`pathpy`](http://www.pathpy.net) (30 min) | [.py](https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/code/4_temporal_networks.py) [.ipynb](https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/code/4_temporal_networks.ipynb) [.html](https://htmlpreview.github.io/?https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/docs/4_temporal_networks.html)
+5 | Multi-order Model Selection (30 min) | [.py](https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/code/5_multi_order.py) [.ipynb](https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/code/5_multi_order.ipynb) [.html](https://htmlpreview.github.io/?https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/docs/5_multi_order.html)
+6 | Optimal Higher-order Analytics for Temporal Data (30 min) | [.py](https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/code/6_optimal_analysis.py) [.ipynb](https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/code/6_optimal_analysis.ipynb) [.html](https://htmlpreview.github.io/?https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/docs/6_optimal_analysis.html)
 7 | Exploration: Multi-order Analysis of [Time-stamped Social Networks](https://github.com/IngoScholtes/eurocss2019-tutorial/tree/master/data) (self-study) | [.py](https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/code/7_exploration.py),  [.ipynb](https://github.com/IngoScholtes/eurocss2019-tutorial/blob/master/code/7_exploration.ipynb)
 
 # Data sets
