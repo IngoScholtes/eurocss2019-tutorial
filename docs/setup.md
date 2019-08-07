@@ -23,7 +23,7 @@ to receive the latest updates. If you are using Visual Studio Code (see below) t
 
 # Installing python 3.X
 
-To complete the hands-on exercises, you will need a working `python 3.x` environment running on an operating system of your choice. For Windows, MacOS, and Linux users we recommend [Anaconda 5.2](https://www.anaconda.com/download/) distribution, an OpenSource `python` 3.6 distribution that comes pre-configured for data science and machine learning tasks.
+To complete the hands-on exercises, you will need a working `python 3.x` environment running on an operating system of your choice. For Windows, MacOS, and Linux users we recommend to install the latest [Anaconda 2019.07](https://www.anaconda.com/download/) distribution, an OpenSource `python` 3.7 distribution that comes pre-configured for data science and machine learning tasks.
 
 The only additional package that you may need for this tutorial is the package [markdown](https://pypi.org/project/Markdown/). We use it to produce nicely formatted output with the python skeleton files. You can just install it by typing:
 
@@ -35,9 +35,9 @@ pip install markdown
 
 To complete the exercises, we recommend using the development environment [Visual Studio Code](https://code.visualstudio.com/Download), a platform-independent Open Source code editor available for Windows, MacOS, and Linux. Just download the installation file and run the setup. Once the installation has completed, run Visual Studio Code either by clicking the icon or by typing `code` in the terminal.
 
-To conveniently work with `python` and `jupyter` notebooks in Visual Studio Code, we recommend an extension, which you can install free of charge directly from Visual Studio Code's integrated extension manager. We will need the official [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) extension, which adds `python` code editing, debugging, and linting functionality. This extension provides a convenient interface to the `jupyter` notebook server automatically installed by `Anaconda 5.2`.
+To conveniently work with `python` and `jupyter` notebooks in Visual Studio Code, we recommend an extension, which you can install free of charge directly from Visual Studio Code's integrated extension manager. We will need the official [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) extension, which adds `python` code editing, debugging, and linting functionality. This extension provides a convenient interface to the `jupyter` notebook server automatically installed by `Anaconda 2019.07`.
 
-To install the extension, click the "module" icon in the bottom of the left menu bar or press `Ctrl+Shift+X`. This will bring up the Extensions window. Type `python` and click the top-most search result [Python 2018.7.1](https://marketplace.visualstudio.com/items?itemName=ms-python.python). In the window on the right, click install. A restart of Visual Studio Code completes the installation.
+To install the extension, click the "module" icon in the bottom of the left menu bar or press `Ctrl+Shift+X`. This will bring up the Extensions window. Type `python` and click the top-most search result [Python 2019.8.29288](https://marketplace.visualstudio.com/items?itemName=ms-python.python). In the window on the right, click install. A restart of Visual Studio Code completes the installation.
 
 Once the installation is finished, open Visual Studio Code, click `File -> Open Folder` and navigate to your local copy of the cloned github repository. In the *Explorer* panel (the files symbol in the left bar) you can then find the notebook files that you need to complete the tutorial.
 
