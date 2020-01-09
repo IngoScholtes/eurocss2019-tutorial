@@ -1,5 +1,5 @@
 ---
-title: Tutorial on Higher-Order Network Analytics for Time-Stamped Data on Social Interactionss
+title: Higher-Order Network Analytics for Time-Stamped Data on Social Interactions
 permalink: /
 ---
 
