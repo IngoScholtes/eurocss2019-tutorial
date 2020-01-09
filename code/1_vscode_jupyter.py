@@ -73,7 +73,7 @@ print(x)
 # further appear in the problems window below the code editor.
 
 #%% 
-# x:= 42
+x:= 42
 
 
 # VS Code will automatically show documentation extracted from the docstring of 

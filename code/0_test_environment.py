@@ -2,7 +2,8 @@
 This is a test file, that you can use to validate 
 """
 
-#%% validate that pathpy was installed correct
+# validate that pathpy was installed correct
+
 import pathpy as pp
 paths = pp.Paths()
 paths.add_path('a,b,c')
